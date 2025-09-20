@@ -131,9 +131,8 @@ fun task4() {
                         return
                     }
                 }
-                if (result % 2 >= 0.0 && result % 2 <= 1.0) {
-                    print("Результат: ")
-                    println(result.toInt())
+                if (result % 1.0 == 0.0) {
+                    println("Результат: ${result.toInt()}")
                 } else {
                     print("Результат: ")
                 println(String.format("%.2f", result)) //Вывод с двумя символами после точки

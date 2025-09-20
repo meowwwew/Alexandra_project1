@@ -1,1 +1,1 @@
-X:\3 курс\Разработка мобильных приложений\Zadanie\build\classes\kotlin\main\MainKt.class
+X:\3 курс\Разработка мобильных приложений\Zadanie\build\classes\kotlin\main\MainKt$task2$$inlined$groupingBy$1.class;X:\3 курс\Разработка мобильных приложений\Zadanie\build\classes\kotlin\main\MainKt.class
